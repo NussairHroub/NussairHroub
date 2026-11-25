@@ -6,6 +6,6 @@ I earned my B.S. in Computer Engineering with a concentration in AI from King Fa
 
 I'm interested in robotics, egocentric video, robot manipulation, and computer vision.
 
-[Email](mailto:nussair.hroub@kaust.edu.sa) / [Google Scholar](https://scholar.google.com/citations?user=o-yZqE4AAAAJ) / [GitHub](https://github.com/NussairHroub) / [LinkedIn](https://www.linkedin.com/in/nussair/)
+[Website](https://nussairhroub.github.io/) / [Email](mailto:nussair.hroub@kaust.edu.sa) / [Google Scholar](https://scholar.google.com/citations?user=o-yZqE4AAAAJ) / [GitHub](https://github.com/NussairHroub) / [LinkedIn](https://www.linkedin.com/in/nussair/)
 
 Feel free to email me if you'd like to discuss my research or explore a collaboration.
